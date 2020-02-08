@@ -1,5 +1,5 @@
 _repo: Los-von-Rom-Eine-Geschichte-aus-dem-Leben_61287
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Bergen, Fritz
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1941
     gutenberg_agent_id: '41218'
     url: http://www.gutenberg.org/2009/agents/41218
+covers:
+- cover_type: archival
+  image_path: 61287-h/images/cover.jpg
 creator:
   author:
     agent_name: Ohorn, Anton
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/50232
     wikipedia: https://de.wikipedia.org/wiki/Anton_Ohorn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61287#Los-von-Rom-Eine-Geschichte-aus-dem-Leben
 gutenberg_issued: '2020-02-01'
 gutenberg_type: Text
 identifiers:
